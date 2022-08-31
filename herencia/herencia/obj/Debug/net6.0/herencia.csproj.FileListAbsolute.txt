@@ -1,0 +1,15 @@
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\obj\Debug\net6.0\herencia.csproj.AssemblyReference.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\obj\Debug\net6.0\herencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\obj\Debug\net6.0\herencia.AssemblyInfoInputs.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\obj\Debug\net6.0\herencia.AssemblyInfo.cs
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\obj\Debug\net6.0\herencia.csproj.CoreCompileInputs.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\bin\Debug\net6.0\herencia.exe
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\bin\Debug\net6.0\herencia.deps.json
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\bin\Debug\net6.0\herencia.runtimeconfig.json
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\bin\Debug\net6.0\herencia.dll
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\bin\Debug\net6.0\herencia.pdb
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\obj\Debug\net6.0\herencia.dll
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\obj\Debug\net6.0\refint\herencia.dll
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\obj\Debug\net6.0\herencia.pdb
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\obj\Debug\net6.0\herencia.genruntimeconfig.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\herencia\herencia\obj\Debug\net6.0\ref\herencia.dll
