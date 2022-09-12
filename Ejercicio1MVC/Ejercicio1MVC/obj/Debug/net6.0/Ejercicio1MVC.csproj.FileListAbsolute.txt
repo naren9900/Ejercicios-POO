@@ -1,0 +1,15 @@
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\bin\Debug\net6.0\Ejercicio1MVC.exe
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\bin\Debug\net6.0\Ejercicio1MVC.deps.json
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\bin\Debug\net6.0\Ejercicio1MVC.runtimeconfig.json
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\bin\Debug\net6.0\Ejercicio1MVC.dll
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\bin\Debug\net6.0\Ejercicio1MVC.pdb
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\obj\Debug\net6.0\Ejercicio1MVC.csproj.AssemblyReference.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\obj\Debug\net6.0\Ejercicio1MVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\obj\Debug\net6.0\Ejercicio1MVC.AssemblyInfoInputs.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\obj\Debug\net6.0\Ejercicio1MVC.AssemblyInfo.cs
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\obj\Debug\net6.0\Ejercicio1MVC.csproj.CoreCompileInputs.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\obj\Debug\net6.0\Ejercicio1MVC.dll
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\obj\Debug\net6.0\refint\Ejercicio1MVC.dll
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\obj\Debug\net6.0\Ejercicio1MVC.pdb
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\obj\Debug\net6.0\Ejercicio1MVC.genruntimeconfig.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\EjercicioMVC\EjercicioMVC\Ejercicio1MVC\Ejercicio1MVC\obj\Debug\net6.0\ref\Ejercicio1MVC.dll
