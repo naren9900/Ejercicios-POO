@@ -1,0 +1,15 @@
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\bin\Debug\net6.0\FACTORY.exe
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\bin\Debug\net6.0\FACTORY.deps.json
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\bin\Debug\net6.0\FACTORY.runtimeconfig.json
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\bin\Debug\net6.0\FACTORY.dll
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\bin\Debug\net6.0\FACTORY.pdb
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\obj\Debug\net6.0\FACTORY.csproj.AssemblyReference.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\obj\Debug\net6.0\FACTORY.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\obj\Debug\net6.0\FACTORY.AssemblyInfoInputs.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\obj\Debug\net6.0\FACTORY.AssemblyInfo.cs
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\obj\Debug\net6.0\FACTORY.csproj.CoreCompileInputs.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\obj\Debug\net6.0\FACTORY.dll
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\obj\Debug\net6.0\refint\FACTORY.dll
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\obj\Debug\net6.0\FACTORY.pdb
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\obj\Debug\net6.0\FACTORY.genruntimeconfig.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\FACTORY\FACTORY\obj\Debug\net6.0\ref\FACTORY.dll
